@@ -6773,3 +6773,7 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.parallax-window {
+    min-height: 1200px;
+    background: transparent;
+}
